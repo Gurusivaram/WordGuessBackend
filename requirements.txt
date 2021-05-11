@@ -1,5 +1,5 @@
 certifi==2019.11.28
-cliapp==1.20180812.1
+cliapp==1.0.1
 command-not-found==0.3
 dbus-python==1.2.16
 distro==1.4.0
